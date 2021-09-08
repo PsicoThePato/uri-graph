@@ -110,10 +110,6 @@ class Graph:
             return body
 
 
-
-
-
-
 if __name__ == "__main__":
     class HeapNodeVertex():
         def __init__(self, vertex_name, key_wt, pred_vertex, adj_list):
